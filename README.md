@@ -3,7 +3,6 @@
 如果你看到好的链接，欢迎通过 [issue](https://github.com/lianmt/weekly/issues) 提交。
 
 2018
-
 --- 
 
 十月：[第 26 期](https://github.com/lianmt/weekly/blob/master/docs/26.md) | [第 25 期](https://github.com/lianmt/weekly/blob/master/docs/25.md)

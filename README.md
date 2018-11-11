@@ -3,7 +3,7 @@
 2018
 --- 
 
-十一月：[第 29 期☀️](https://github.com/lianmt/weekly/blob/master/docs/29.md)
+十一月：[第 30 期☀️](https://github.com/lianmt/weekly/blob/master/docs/30.md) | [第 29 期](https://github.com/lianmt/weekly/blob/master/docs/29.md)
 
 十月：[第 28 期](https://github.com/lianmt/weekly/blob/master/docs/28.md) | [第 27 期](https://github.com/lianmt/weekly/blob/master/docs/27.md)  | [第 26 期](https://github.com/lianmt/weekly/blob/master/docs/26.md) | [第 25 期](https://github.com/lianmt/weekly/blob/master/docs/25.md)
 

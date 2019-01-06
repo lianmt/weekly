@@ -2,7 +2,7 @@
 
 2019
 --- 
-一月：[第 38 期⭐](https://github.com/lianmt/weekly/blob/master/docs/2019/38.md) | 
+一月：[第 38 期⭐](https://github.com/lianmt/weekly/blob/master/docs/2019/38.md)
 
 2018
 --- 
